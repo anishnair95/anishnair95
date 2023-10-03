@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,spring,mysql,maven,git,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,spring,hibernate,mysql,maven,git,github,vscode,idea)](https://skillicons.dev)
 # Github Stats
  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
