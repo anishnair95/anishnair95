@@ -1,17 +1,7 @@
 ### Hola, I'm Anish Nair 👋
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java Full Stack Project
-- 🌱 I’m currently learning Javascipt
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+A Backend Developer at Zuora India with a focus on Java, Spring Boot, and Dropwizard. I specialize in building scalable microservices, optimizing API performance, and enhancing system reliability. I've transitioned monolithic architectures to gRPC microservices, cut response times by 50%, and improved real-time metrics visibility using Grafana. Passionate about system design and backend efficiency, I'm always looking for ways to streamline and scale services.
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,kotlin,spring,hibernate,mysql,maven,git,github,vscode,idea)](https://skillicons.dev)
